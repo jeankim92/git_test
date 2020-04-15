@@ -1,0 +1,1 @@
+This is Jean Kim's first git project!
